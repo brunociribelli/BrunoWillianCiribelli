@@ -1,6 +1,6 @@
-# BrunoWillianCiribelli
+# Previsão do tempo
 
-## Previsão do tempo 
+## Feito com essas tecnologias.
 <table>
   <tr>
     <td>HTML</td>
